@@ -1,0 +1,17 @@
+/* pagina principal */
+
+.bk-cor{
+    background-color: rgb(0, 221, 255);
+}
+
+.menu{
+  text-align: end;
+}
+
+#h1-cor{
+    color: rgba(195, 11, 11, 0.6);
+}
+
+.p-cor{
+    color: rgba(195, 11, 11, 0.6);
+}
